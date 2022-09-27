@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(250, 250, 210);
+}
+.container{
+    width: 1432px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 23px;
+    margin: auto;
+    background-color: white;
+    height: 1454px;
+}
+header{
+    font-family: Anaheim,sans-serif;
+    font-size: 28.8px;
+    font-weight: 500;
+    text-align: center;
+    margin: 19.296px 0px;
+
+}
+.container p{
+    margin-left: 15px;
+    font-family: Anaheim;
+    font-size: 19.8px;
+    color: rgb(88, 88, 88);
+    margin:19.2px 0px;
+    margin-left: 26px;
+}
+.container span{
+    color: black;
+}
+form{
+    font-family: Anaheim,sans-serif;
+}
+
+.info{
+    padding: 14px 0px;
+}
+.info P{
+    margin-left: 0px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.check, .political,.personal,.essay{
+    border: 1px solid lightgray;
+    margin-top: 34px;
+    width: 1000px;
+    margin-left: 18px;
+}
+.check p,.essay p{
+    margin-left: 4px;
+    margin-bottom: 9px;
+    font-size: 17.2px;
+    font-family: inherit;
+}
+.apply{
+    padding: 5px 0px;
+    font-family: inherit;
+}
+.neta{
+    padding: 10px 0px;
+    display: inline-block;
+    font-family: inherit;
+    margin-right: 13px;
+}
+.essay textarea{
+    width: 380px;
+    height: 75px;
+    padding-top: -10px;
+    margin-top: 13px;
+}
+.essay button{
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    background-color: #ff0000;
+    font-size: 19.2px;
+    font-family: Arial;
+    border: none;
+    margin: 9.6px;
+}
+.upload{
+    display: inline-block;
+    text-align: center;
+}
+
+.wrapper{
+    margin: auto;
+    width: 427px;
+    margin-top: 27px;
+}
+.wrapper button{
+    width: 217px;
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    background-color: #ff0000;
+    font-size: 19.2px;
+    font-family: Arial;
+    border: none;
+    margin: 9.6px;
+}
